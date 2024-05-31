@@ -1,9 +1,9 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: '01_counter_app',
-  webDir: 'www'
+  appId: 'com.ivete.CounterApp',
+  appName: 'CounterApp',
+  webDir: 'www',
 };
 
 export default config;
